@@ -1,3 +1,5 @@
 this file deployed by secureshell script
-hellow guys  was updated
+
+=======head
+>>>>>>> parent of ea429d6 (updated)
 
